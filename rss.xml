@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[creatorsofyeah]]></title>
+        <description><![CDATA[creatorsofyeah]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 17:03:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[into the woods]]></title>
+            <description><![CDATA[<article><h1>into the woods</h1><p>show me yours i show you mine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c9277296d0ec143621f0290d4a207e2fe23ba8c.jpg"></article>]]></description>
+            <link>undefinedinto-the-woods/index.html</link>
+            <guid isPermaLink="false">97b2f0e9-5d62-4863-b6c3-3815d91aee81</guid>
+            <pubDate>Tue, 12 Jan 2016 17:03:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
