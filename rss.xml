@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[creatorsofyeah]]></title>
         <description><![CDATA[creatorsofyeah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creatorsofyeah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 17:03:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 17:17:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creatorsofyeah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[into the woods]]></title>
             <description><![CDATA[<article><h1>into the woods</h1><p>show me yours i show you mine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c9277296d0ec143621f0290d4a207e2fe23ba8c.jpg"></article>]]></description>
-            <link>undefinedinto-the-woods/index.html</link>
+            <link>https://thegrid.ai/creatorsofyeah/into-the-woods/index.html</link>
             <guid isPermaLink="false">97b2f0e9-5d62-4863-b6c3-3815d91aee81</guid>
-            <pubDate>Tue, 12 Jan 2016 17:03:15 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 17:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
