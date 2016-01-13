@@ -1,28 +1,40 @@
-name: creatorsofyeah
-favicon: null
 layout_spectrum: 0.98932
-typography_spectrum: 0.62977
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1897133
+  brandStrength: 0.9469964941963553
+  lightness: 0.1374368
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9469964941963553
-  lightness: 0.6442159726284444
-  saturation: 0.9282694621942937
-  rhythmicContrast: 0.4286903452593833
-purpose: []
+  rhythmicContrast: 0.03456998
+typography_spectrum: 0.8237774
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: creatorsofyeah
